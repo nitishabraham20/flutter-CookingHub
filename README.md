@@ -1,6 +1,6 @@
 # food_ingredient
 
-A new Flutter project.
+This app displays different categories of cuisines along with their main food dishes. User can select any food dish and check its ingredients and cooking steps and also add that to their favorites list. User can also add filters to show food items based on their preference. 
 
 ## Getting Started
 
